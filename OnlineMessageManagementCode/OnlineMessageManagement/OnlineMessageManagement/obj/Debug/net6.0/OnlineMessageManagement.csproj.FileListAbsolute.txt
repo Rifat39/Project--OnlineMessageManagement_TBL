@@ -1,0 +1,255 @@
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.Development.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.staticwebassets.runtime.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.exe
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.deps.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.runtimeconfig.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.pdb
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.AssemblyReference.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfoInputs.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfo.cs
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CoreCompileInputs.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.MvcApplicationPartsAssemblyInfo.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cs
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMessageManagement.Microsoft.AspNetCore.StaticWebAssets.props
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMessageManagement.props
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMessageManagement.props
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMessageManagement.props
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.pack.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.build.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.development.json
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineMessageManagement.styles.css
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMessageManagement.bundle.scp.css
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\refint\OnlineMessageManagement.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.pdb
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.genruntimeconfig.cache
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\ref\OnlineMessageManagement.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Core.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Identity.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Memory.Data.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\TBL\dotnet\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CopyComplete
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.staticwebassets.runtime.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.exe
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.deps.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.runtimeconfig.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.pdb
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.AssemblyReference.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfoInputs.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfo.cs
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CoreCompileInputs.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cs
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMessageManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMessageManagement.props
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMessageManagement.props
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMessageManagement.props
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineMessageManagement.styles.css
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMessageManagement.bundle.scp.css
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CopyComplete
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\refint\OnlineMessageManagement.dll
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.pdb
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.genruntimeconfig.cache
+C:\Users\IT SW DEV\Downloads\fgdf\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\ref\OnlineMessageManagement.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.staticwebassets.runtime.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.exe
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.deps.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.runtimeconfig.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\OnlineMessageManagement.pdb
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.AssemblyInfo.cs
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.RazorAssemblyInfo.cs
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineMessageManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineMessageManagement.props
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineMessageManagement.props
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineMessageManagement.props
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineMessageManagement.styles.css
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\scopedcss\projectbundle\OnlineMessageManagement.bundle.scp.css
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.csproj.CopyComplete
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\refint\OnlineMessageManagement.dll
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.pdb
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\OnlineMessageManagement.genruntimeconfig.cache
+C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\obj\Debug\net6.0\ref\OnlineMessageManagement.dll

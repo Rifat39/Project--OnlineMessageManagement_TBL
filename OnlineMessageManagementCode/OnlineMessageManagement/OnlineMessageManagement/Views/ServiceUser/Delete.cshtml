@@ -1,0 +1,22 @@
+﻿@model OnlineMessageManagement.Models.ServiceUser
+
+<h2 class="create">Delete Service User</h2>
+<div class="create">
+    <h3>Are you sure you want to delete this record?</h3>
+    <h4>Customer Id: <strong>@Model.Cid</strong></h4>
+    <h4>Phone Number: <strong>@Model.PhoneNumber</strong></h4>
+    <h4>Service Use: <strong>@Model.ServiceUse</strong></h4>
+    <form method="post" asp-action="ConfirmDelete" asp-route-id="@Model.Cid">
+        <input type="submit" value="Delete" class="primary-btn" style="background-color: #dc3545;" />
+        <a asp-action="Index" class="cancel-btn">Cancel</a>
+    </form>
+</div>
+<script>
+    // Get the element by ID
+    var userSection = document.getElementById('user');
+    // Change the background color
+    userSection.style.backgroundColor = '#11101d';
+    userSection.querySelector('span').style.color = 'white';
+    userSection.querySelector('i').style.color = 'white';
+
+</script>

@@ -1,0 +1,113 @@
+﻿@model List<OnlineMessageManagement.Models.ServiceUser>
+
+<h2 class="create" style="padding-bottom:10px">Service Users</h2>
+
+<button class="create create-btn" >
+    <a asp-action="Create" class="anchor"><i class='bx bx-user-plus'></i><span>Add New Customer</span></a>
+</button>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names, IDs, or emails.." title="Type in a name, ID, or phone">
+<div class="table-wrapper">
+    <table class="fl-table" id="myTable">
+        <thead>
+            <tr>
+                <th>Customer Id</th>
+                <th>Customer Name</th>
+                <th>
+                    Phone Number
+                </th>
+                <th>
+                    Services Use
+                </th>
+                <th>
+                    Created Date Time
+                </th>
+                <th>
+                    Updated Date Time
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var serviceUser in Model)
+            {
+                <tr>
+                    <td>@serviceUser.Cid</td>
+                    <td>@serviceUser.Cname</td>
+                    <td>
+                        @serviceUser.PhoneNumber
+                    </td>
+                    <td>
+                        @serviceUser.ServiceUse
+                    </td>
+                    <td>
+                        @serviceUser.CreatedAt.ToString("yyyy-MM-dd")<br>
+                        @serviceUser.CreatedAt.ToString("HH:mm:ss")
+                        
+
+                    </td>
+                    <td>
+                        @if (@serviceUser.UpdatedAt.ToString() != @serviceUser.CreatedAt.ToString())
+                        {
+
+                            @serviceUser.UpdatedAt.ToString("yyyy-MM-dd") <br>
+                            @serviceUser.UpdatedAt.ToString("HH:mm:ss")
+                        }
+
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@serviceUser.Cid" style="color:#0079FF"><i class='bx bx-edit'></i></a>
+                        <a asp-action="Delete" asp-route-id="@serviceUser.Cid"><img src="~/image/trash.png" width="30px"/></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+<script>
+    // Get the element by ID
+    var userSection = document.getElementById('user');
+    // Change the background color
+    userSection.style.backgroundColor = '#11101d';
+    userSection.querySelector('span').style.color = 'white';
+    userSection.querySelector('i').style.color = 'white';
+    
+</script>
+<script>
+    function myFunction() {
+        var input, filter, table, tr, td, i, j, txtValue;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 1; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td");
+            var match = false;
+            for (j = 0; j < td.length - 4; j++) {
+                var cell = td[j];
+                txtValue = cell.textContent || cell.innerText;
+                if (filter === '' || txtValue.toUpperCase().indexOf(filter) > -1) {
+                    match = true;
+                    cell.innerHTML = highlightMatchingSubstring(txtValue, filter);
+                } else {
+                    cell.innerHTML = txtValue; // Reset the cell content if it doesn't match
+                }
+            }
+            if (match || filter === '') {
+                tr[i].style.display = "";
+            } else {
+                tr[i].style.display = "none";
+            }
+        }
+    }
+
+
+    function highlightMatchingSubstring(text, filter) {
+        var regex = new RegExp(filter, 'gi');
+        return text.replace(regex, function (match) {
+            return '<span class="highlight">' + match + '</span>';
+        });
+    }
+</script>

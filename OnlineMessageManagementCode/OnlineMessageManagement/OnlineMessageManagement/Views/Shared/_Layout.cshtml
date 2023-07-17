@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]Online Message Management</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+   
+        <header class="sidebar open">
+            <div class="logo-details" style="color: white;">
+            <img src="~/image/tbl-logo.png" alt="" width="70px" class="icon" style="margin-top: 15px;">
+                <div class="logo_name" style="margin-top: 15px; margin-left: 2px;">TBL <span style="display: block; margin-top: -10px;">Broadcast</span> </div>
+                <i class='bx bx-menu' id="btn"></i>
+            </div>
+            <ul class="nav-list">
+                <li>
+                <a asp-area="" asp-controller="SocialService" asp-action="SocialServiceList" id="dashboard">
+                        <i class='bx bx-grid-alt'></i>
+                        <span class="links_name">Dashboard</span>
+                    </a>
+                    <span class="tooltip">Dashboard</span>
+                </li>
+                <li>
+                <a asp-area="" asp-controller="ServiceUser" asp-action="Index" id="user">
+                        <i class='bx bx-user'></i>
+                        <span class="links_name">Customer</span>
+                    </a>
+                    <span class="tooltip">User</span>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class='bx bx-chat'></i>
+                        <span class="links_name">Messages</span>
+                    </a>
+                    <span class="tooltip">Messages</span>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class='bx bx-pie-chart-alt-2'></i>
+                        <span class="links_name">Analytics</span>
+                    </a>
+                    <span class="tooltip">Analytics</span>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class='bx bx-cog'></i>
+                        <span class="links_name">Setting</span>
+                    </a>
+                    <span class="tooltip">Setting</span>
+                </li>
+               
+            </ul>
+        </header>
+
+    <main role="main" class="home-section">
+        @RenderBody()
+   </main>
+    <script>
+        let sidebar = document.querySelector(".sidebar");
+        let closeBtn = document.querySelector("#btn");
+        let searchBtn = document.querySelector(".bx-search");
+
+        closeBtn.classList.replace("bx-menu", "bx-menu-alt-right"); // Initially show bx-menu-alt-right icon
+
+        closeBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("open");
+            menuBtnChange();
+        });
+
+        searchBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("open");
+            menuBtnChange();
+        });
+
+        function menuBtnChange() {
+            if (sidebar.classList.contains("open")) {
+                closeBtn.classList.replace("bx-menu", "bx-menu-alt-right");
+            } else {
+                closeBtn.classList.replace("bx-menu-alt-right", "bx-menu");
+            }
+        }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

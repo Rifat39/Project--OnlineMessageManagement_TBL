@@ -1,0 +1,84 @@
+﻿@model OnlineMessageManagement.Models.AllModels
+
+@{
+    ViewData["Titles"] = "Dashboard - ";
+}
+<div class="ipaddress">
+    <table style="border:2px solid green; padding:10px; border-radius: 10px;">
+        <tr>
+            <td>My Local IP</td>
+            <td style="padding-left:3px;padding-right:10px;">:</td>
+            <td><strong>@ViewBag.IPv4Address</strong></td>
+        </tr>
+        <tr>
+            <td>My Public IP</td>
+            <td style="padding-left:3px ; padding-right:10px;">:</td>
+            <td><strong id="ip-address">Loading...</strong></td>
+        </tr>
+     
+    </table>
+</div>
+
+
+<div class="table-wrapper">
+    <table class="fl-table">
+        <caption>Social Media Services</caption>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Status</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @{
+
+                if (Model.socialServiceList != null && Model.socialServiceList.Count > 0)
+                {
+                    foreach (var item in Model.socialServiceList)
+                    {
+                        <tr>
+                            <td>@item.ServiceId</td>
+                            <td>@item.ServiceName</td>
+                            <td>
+                                @if (@item.ServiceStatus == 1)
+                                {
+                                    <img src="~/image/check-mark.png" alt="" width="30px" class="icon" >
+                                }
+                                else
+                                {
+                                    <img src="~/image/cancel.png" alt="" width="25px" class="icon">
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+
+            }
+        <tbody>
+    </table>
+</div>
+<script>
+    // Get the element by ID
+    var dashboardSection = document.getElementById('dashboard');
+    // Change the background color
+    dashboardSection.style.backgroundColor = '#11101d';
+     dashboardSection.querySelector('span').style.color = 'white';
+    dashboardSection.querySelector('i').style.color = 'white';
+    // Function to fetch the IP address using an API
+    function fetchIPAddress() {
+        fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('ip-address').innerHTML = '<strong>' + data.ip + '</strong>';
+            })
+            .catch(error => {
+                console.log('Error:', error);
+                document.getElementById('ip-address').textContent = 'Failed to fetch IP address.';
+            });
+    }
+
+    // Call the fetchIPAddress function when the page loads
+    window.addEventListener('load', fetchIPAddress);
+</script>
