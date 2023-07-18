@@ -225,8 +225,9 @@
     max-width: 100%;
     white-space: nowrap;
     background-color: white;
-    margin-left: 50px;
     margin-top:20px;
+    margin-left:50px;
+
 }
 
     .fl-table td, .fl-table th {
@@ -414,4 +415,16 @@ input[type=checkbox] {
 }
 .highlight {
     background-color: yellow;
+}
+.search-box{
+   
+}
+
+.myInputC {
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border: 2px solid;
+    margin-top: 20px;
 }
