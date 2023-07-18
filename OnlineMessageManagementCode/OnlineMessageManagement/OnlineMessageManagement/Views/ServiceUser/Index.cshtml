@@ -1,16 +1,20 @@
-﻿@model List<OnlineMessageManagement.Models.ServiceUser>
+﻿@model ServiceUserViewModel
 
 <h2 class="create" style="padding-bottom:10px">Service Users</h2>
 
 <button class="create create-btn" >
     <a asp-action="Create" class="anchor"><i class='bx bx-user-plus'></i><span>Add New Customer</span></a>
 </button>
+<div class="search-box" id="otherElement">
+    <input type="text" id="myInput" class="myInputC" onkeyup="myFunction()" placeholder="Search for IDs, names, or phone number" title="Type in a IDs, names, or phone number">
+    </div>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names, IDs, or emails.." title="Type in a name, ID, or phone">
 <div class="table-wrapper">
+    
     <table class="fl-table" id="myTable">
+        
         <thead>
-            <tr>
+            <tr id="myTableRow">
                 <th>Customer Id</th>
                 <th>Customer Name</th>
                 <th>
@@ -29,7 +33,9 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var serviceUser in Model)
+           
+          
+            @foreach (var serviceUser in Model.ServiceUsers)
             {
                 <tr>
                     <td>@serviceUser.Cid</td>
@@ -38,7 +44,34 @@
                         @serviceUser.PhoneNumber
                     </td>
                     <td>
-                        @serviceUser.ServiceUse
+                        @{
+
+                            String[] values = @serviceUser.ServiceUse.Split(',');
+
+                            int[] integerArray = new int[values.Length];
+
+                            int i = 0;
+                            foreach (string value in values)
+                            {
+                                int intValue;
+                                if (int.TryParse(values[i], out intValue))
+                                {
+                                    integerArray[i] = intValue;
+                                }
+                                i++;
+                            }
+                            for(int j=0;j<integerArray.Length;j++)
+                            {
+                                foreach(var socialService in Model.SocialServices)
+                                {
+                                    if(integerArray[j]==@socialService.ServiceId)
+                                    {
+                                        <b>@socialService.ServiceName</b><br />
+                                    }
+                                }
+                            }
+                        }
+
                     </td>
                     <td>
                         @serviceUser.CreatedAt.ToString("yyyy-MM-dd")<br>
@@ -110,4 +143,37 @@
             return '<span class="highlight">' + match + '</span>';
         });
     }
+
+    
+</script>
+
+<script>
+    const tableRow = document.getElementById('myTableRow'); // Replace 'myTableRow' with the ID of your table row
+
+    // Step 1: Remove margin and padding from the table row
+    tableRow.style.margin = '0';
+    tableRow.style.padding = '0';
+
+    // Step 2: Traverse up the DOM to find surrounding div elements
+    let parentElement = tableRow.parentElement;
+    while (parentElement) {
+        if (parentElement.tagName.toLowerCase() === 'div') {
+            parentElement.style.margin = '0';
+            parentElement.style.padding = '0';
+        }
+        parentElement = parentElement.parentElement;
+    }
+
+    // Step 3: Calculate the total width of the table row
+    let totalWidth = 0;
+    const childElements = tableRow.children;
+    for (let i = 0; i < childElements.length; i++) {
+        totalWidth += childElements[i].offsetWidth;
+    }
+
+    const otherElement = document.getElementById('otherElement'); 
+   
+    const modifiedWidth = totalWidth - 250;
+    otherElement.style.marginLeft = `${modifiedWidth}px`;
+
 </script>

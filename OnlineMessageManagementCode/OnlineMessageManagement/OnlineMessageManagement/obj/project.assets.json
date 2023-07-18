@@ -3436,19 +3436,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\IT SW DEV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\TBL\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
       "projectName": "OnlineMessageManagement",
       "projectPath": "D:\\TBL\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
       "outputPath": "D:\\TBL\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\obj\\",
+=======
+      "projectUniqueName": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
+      "projectName": "OnlineMessageManagement",
+      "projectPath": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
+      "packagesPath": "C:\\Users\\IT SW DEV\\.nuget\\packages\\",
+      "outputPath": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\obj\\",
+>>>>>>> 6b52f1d05fc8fe3d1124fbbb757738f88943a4c8
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IT SW DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
