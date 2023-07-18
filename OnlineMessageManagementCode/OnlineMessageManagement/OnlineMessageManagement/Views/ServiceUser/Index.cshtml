@@ -1,4 +1,4 @@
-﻿@model List<OnlineMessageManagement.Models.ServiceUser>
+﻿@model ServiceUserViewModel
 
 <h2 class="create" style="padding-bottom:10px">Service Users</h2>
 
@@ -29,7 +29,9 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var serviceUser in Model)
+           
+          
+            @foreach (var serviceUser in Model.ServiceUsers)
             {
                 <tr>
                     <td>@serviceUser.Cid</td>
@@ -38,7 +40,34 @@
                         @serviceUser.PhoneNumber
                     </td>
                     <td>
-                        @serviceUser.ServiceUse
+                        @{
+
+                            String[] values = @serviceUser.ServiceUse.Split(',');
+
+                            int[] integerArray = new int[values.Length];
+
+                            int i = 0;
+                            foreach (string value in values)
+                            {
+                                int intValue;
+                                if (int.TryParse(values[i], out intValue))
+                                {
+                                    integerArray[i] = intValue;
+                                }
+                                i++;
+                            }
+                            for(int j=0;j<integerArray.Length;j++)
+                            {
+                                foreach(var socialService in Model.SocialServices)
+                                {
+                                    if(integerArray[j]==@socialService.ServiceId)
+                                    {
+                                        <b>@socialService.ServiceName</b>   <br />
+                                    }
+                                }
+                            }
+                        }
+
                     </td>
                     <td>
                         @serviceUser.CreatedAt.ToString("yyyy-MM-dd")<br>

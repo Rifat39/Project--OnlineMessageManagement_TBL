@@ -23,10 +23,18 @@ namespace OnlineMessageManagement.Controllers
 
         public IActionResult Index()
         {
+            var socialServices = _socialServiceRepository.GetAll(); ; // Retrieve SocialService data using repository
+            var serviceUsers = _serviceUserRepository.GetAll(); // Retrieve ServiceUser data using repository
 
-            var serviceUsers = _serviceUserRepository.GetAll();
-            return View(serviceUsers);
+            var viewModel = new ServiceUserViewModel
+            {
+                SocialServices = socialServices,
+                ServiceUsers = serviceUsers
+            };
+
+            return View(viewModel);
         }
+
         //--------//
         public IActionResult Create()
         {
@@ -172,4 +180,6 @@ namespace OnlineMessageManagement.Controllers
      
 
     }
+    
+
 }

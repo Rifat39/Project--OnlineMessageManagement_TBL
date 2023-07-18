@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Downloads\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj": {}
+    "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Downloads\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj": {
+    "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Downloads\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
+        "projectUniqueName": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
         "projectName": "OnlineMessageManagement",
-        "projectPath": "C:\\Users\\Home\\Downloads\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Downloads\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement\\obj\\",
+        "projectPath": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\OnlineMessageManagement.csproj",
+        "packagesPath": "C:\\Users\\IT SW DEV\\.nuget\\packages\\",
+        "outputPath": "D:\\Project--OnlineMessageManagement_TBL\\OnlineMessageManagementCode\\OnlineMessageManagement\\OnlineMessageManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT SW DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
