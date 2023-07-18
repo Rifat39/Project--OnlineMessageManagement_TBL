@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OnlineMessageManagement
 build_property.RootNamespace = OnlineMessageManagement
-build_property.ProjectDir = C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement\
+build_property.ProjectDir = D:\TBL\Project--OnlineMessageManagement_TBL\OnlineMessageManagementCode\OnlineMessageManagement\OnlineMessageManagement\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Home\Downloads\OnlineMessageManagement\OnlineMessageManagement\OnlineMessageManagement
+build_property.MSBuildProjectDirectory = D:\TBL\Project--OnlineMessageManagement_TBL\OnlineMessageManagementCode\OnlineMessageManagement\OnlineMessageManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/Home/Index.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/Home/Privacy.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/create.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVVzZXJcY3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/Delete.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVVzZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/edit.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVVzZXJcZWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/Index.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/ServiceUser/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVVzZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/Error.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/SocialService/SocialServiceList.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/SocialService/SocialServiceList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsU2VydmljZVxTb2NpYWxTZXJ2aWNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/_ViewImports.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/_ViewStart.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Home/Downloads/OnlineMessageManagement/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/_Layout.cshtml]
+[D:/TBL/Project--OnlineMessageManagement_TBL/OnlineMessageManagementCode/OnlineMessageManagement/OnlineMessageManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1jxq578uwv
